@@ -1,11 +1,4 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
+### Descriptions
 
 As a [role]
 I need [function]
